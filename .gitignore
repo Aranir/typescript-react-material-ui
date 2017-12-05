@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+
+.DS_Store
+
+/client/js/
+**/node_modules
+/server/js/
+**/yarn-error.log
+**/yarn.lock
+**/.yarnclean
+/client/.yarnclean
+**/bundle.js
+/server/public/
+!/server/public/index.html
+/server/dist/
+!/server/public/images/planet_small.png
+!/server/public/images/planet_medium.png
+
+/server/uploads/
+!/server/public/images/genohm_16.png
+!/server/public/images/genohm_32.png
